@@ -41,5 +41,6 @@ Dimentionality Reduction : PCA reduces 43 variables to 3 principal components
 Working with electronic healthcare records (EHRs) comes with the responsibility to protect sensitive patient information. The POPI act Further stipulates this.
 Data breaches can have serious consequences for the individuals and organizations. With increased use of technology to enhance healthcare it is important to consider and set in data security and safeguarding Practices
 ## Contact
- LinkedIn: linkedin.com/in/gomolemo-tshepiso-komane-0b0b6715a 
- Email:gomolemotkomane@gmail.com 
+LinkedIn: [Gomolemo Komane](https://linkedin.com/in/gomolemo-tshepiso-komane-0b0b6715a)  
+Email:gomolemotkomane@gmail.com   
+Website :http://tinyurl.com/KomaneTshepisoGomolemo
